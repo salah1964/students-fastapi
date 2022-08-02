@@ -66,8 +66,6 @@ soupsieve==2.3.2.post1
 SQLAlchemy==1.4.39
 sqlparse==0.4.2
 starlette==0.14.2
-toml==0.10.2
-tornado==6.1
 typing_extensions==4.2.0
 tzdata==2022.1
 tzlocal==4.2
